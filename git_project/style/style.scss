@@ -23,3 +23,14 @@ body {
 	color: gainsboro;
 	text-shadow: 0 0 5px rgb(70, 95, 29);
 }
+
+.image {
+	margin: 0 auto;
+	width: 600px;
+	height: auto;
+	img {
+		width: 100%;
+		height: 100%;
+		object-fit: contain;
+	}
+}
