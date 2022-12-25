@@ -2,10 +2,24 @@ body {
 	background: gainsboro;
 }
 
+.wrapper {
+	width: 1200px;
+	height: auto;
+}
+
 .title {
 	margin: 40px auto;
 	text-align: center;
 	font-size: 46px;
 	color: gainsboro;
-	box-shadow: 0 0 5px coral;
+	text-shadow: 0 0 7px rgb(90, 45, 28);
+}
+
+.text {
+	font-size: 24px;
+	padding: 30px 50px;
+	text-align: justify;
+	line-height: 1.5em;
+	color: gainsboro;
+	text-shadow: 0 0 5px rgb(70, 95, 29);
 }
