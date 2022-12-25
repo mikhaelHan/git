@@ -12,6 +12,7 @@ body {
 	text-align: center;
 	font-size: 46px;
 	color: gainsboro;
+<<<<<<< HEAD
 	text-shadow: 0 0 7px rgb(90, 45, 28);
 }
 
@@ -33,4 +34,20 @@ body {
 		height: 100%;
 		object-fit: contain;
 	}
+=======
+	text-shadow: 0 0 5px coral;
+}
+
+.list {
+	margin: 0 auto;
+	list-style: none;
+}
+
+.item {
+	font-size: 36px;
+	text-align: center;
+	padding: 10px 10px;
+	color: gainsboro;
+	text-shadow: 0 0 5px coral;
+>>>>>>> d8549fcddc47f2d1e217391660c07dc98aa6a45f
 }
